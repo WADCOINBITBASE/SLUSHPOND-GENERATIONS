@@ -1,4 +1,4 @@
 # WadCoin/FHe mBit
-NoToken: hQ-XN2Q8IrVaSEIjZViGw2dMZ6wYgkmEYS190Ezd1_A
+NoToken: hQ-XN2Q8IrVaSEIjZViGw2dMZ6wYgkmEYS190Ezd1_AKILLTPF
 FHe $m
 
